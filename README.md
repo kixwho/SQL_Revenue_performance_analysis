@@ -1,5 +1,7 @@
 # SQL-Revenue_performance_analysis
 
+Revenue analysis of e-commerce transaction data, focusing on growth trends, anomalies, and key drivers across products and geography.
+
 ### 1. Total Revenue
 <img width="537" height="365" alt="image" src="https://github.com/user-attachments/assets/18856f08-29f3-4c6e-a424-76d448ce6249" />
 
@@ -10,7 +12,11 @@
 
 <br>
 
-### 3. revenue jump from 2016 to 2017 <p></p>
+### 3. Revenue jump from 2016 to 2017 <p></p>
+<img width="672" height="630" alt="image" src="https://github.com/user-attachments/assets/49968723-9418-493b-9618-cfc8737fd7a0" />
+
+#### Insights:
+After normalizing for partial year data, Q4 shows consistent YoY growth, suggesting that the apparent revenue jump is driven by underlying business expansion rather than a one-time anomaly.
 
 <br>
 
@@ -25,4 +31,4 @@
     
     -Rank by orders match rank by revenue → Order volume ~ revenue power
 #### Strategy implication:
-Revenue is not geographically concentrated. Top 5 cities contribute 27% of total revenue, indicating a long-tail demand distribution rather than reliance on a few key hubs. While this limits the effect marketing in major cities has, it does point to a more resilient, broad revenue base.
+Revenue is not geographically concentrated. Top 5 cities contribute 27% of total revenue, indicating a long-tail demand distribution rather than reliance on a few key hubs. This points to a more resilient revenue base and growth opportunities may lie in scaling broadly across regions.
