@@ -1,1 +1,1 @@
-*.md linguist-documentation
+*.h linguist-language=C++
